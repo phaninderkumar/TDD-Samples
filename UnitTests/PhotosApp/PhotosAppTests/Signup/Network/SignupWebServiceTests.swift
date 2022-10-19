@@ -9,6 +9,7 @@ import XCTest
 @testable import PhotosApp
 
 class SignupWebServiceTests: XCTestCase {
+    
     var sut: SignupWebService!
     var signupFormRequestModel: SignupFormRequestModel!
     
